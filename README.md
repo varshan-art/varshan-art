@@ -40,4 +40,4 @@ I am an aspiring software and AI developer passionate about building useful, use
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Srivijayvarsan G](https://www.linkedin.com/in/srivijayvarsan-g-580762390)
+- **LinkedIn:** [https://www.linkedin.com/in/srivijayvarsan-g-580762390]
