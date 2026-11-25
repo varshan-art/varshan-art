@@ -21,13 +21,21 @@ I am an aspiring software and AI developer passionate about building useful, use
 - **Tools & Platforms:** Git, GitHub, VS Code
 
 ---
-
 ### 📂 Featured Projects & Learning Work
-*(Update this section as you add your repositories)*
-- **[Project Name / Coding Exercises]** – *In Progress*
-  - **Purpose:** Practicing core programming concepts and building basic web pages.
-  - **Technologies Used:** Python, C, HTML/CSS
-  - **Status:** Actively updating with coursework and mini-projects.
+- **[RestWeb](https://github.com/varshan-art/restweb)** – *Web Development Project*
+  - **Purpose:** A responsive restaurant/web application built to practice front-end design and web structure.
+  - **Technologies Used:** HTML, CSS, JavaScript
+  - **Status:** Completed
+
+- **[CAMU Schedule](https://github.com/varshan-art/CAMU_Schedule)** – *Utility / Web Project*
+  - **Purpose:** A schedule management application designed to organize and view academic timetables easily.
+  - **Technologies Used:** Web Technologies / Python *(Edit based on exact tech used)*
+  - **Status:** Completed
+
+- **[iGallery](https://github.com/varshan-art/igallery)** – *Web Development Project*
+  - **Purpose:** An interactive web gallery application built to organize and display images cleanly.
+  - **Technologies Used:** HTML, CSS, JavaScript
+  - **Status:** Completed
 
 ---
 
